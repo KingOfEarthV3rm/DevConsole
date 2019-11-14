@@ -129,5 +129,28 @@ Flings the player
 
 -------------------------
 
+savepos
+
+Saves your position
+
+-------------------------
+
+loadpos
+
+Teleports you to your savepos
+
+-------------------------
+
+chat logger
+
+Loads medusa's custom chatlogger
+
+-------------------------
+
+generate pos script
+
+Generates a teleport script with your current pos to your clipboard
+
+-------------------------
 
 -- everything is fe
