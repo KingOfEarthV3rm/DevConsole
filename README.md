@@ -50,5 +50,14 @@ Removes your head
 cut body
 Your body literally gets cut in half
 
+naked
+Removes your clothes
+
+grab hair
+Turns your hait into a tool
+
+block hat
+Turns your hat into a block
+
 
 (EVERYONE SEES THE CHANGES LIKE HEADLESS)
