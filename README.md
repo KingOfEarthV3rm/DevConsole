@@ -59,5 +59,8 @@ Turns your hait into a tool
 block hat
 Turns your hat into a block
 
+orb
+Creates a spinning object around you
+
 
 (EVERYONE SEES THE CHANGES LIKE HEADLESS)
