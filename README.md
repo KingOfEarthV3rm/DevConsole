@@ -121,6 +121,8 @@ orb
 
 Creates a spinning object around you
 
+-- requires hat
+
 -------------------------
 
 fling <Player>
