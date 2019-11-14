@@ -27,13 +27,22 @@ dump registry write <string>
 Other commands:
 
 walkspeed <int>
-	Changes your walkspeed to the value
+	
+Changes your walkspeed to the value
+	
+-------------------------
 	
 jumppower <int>
-	Changes your Jumppower to the value
+	
+Changes your Jumppower to the value
+
+-------------------------
 	
 hipheight <int> 
-	Changes your hipheight to the value
+	
+Changes your hipheight to the value
+
+-------------------------
 	
 block head
 
