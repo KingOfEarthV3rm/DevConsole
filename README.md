@@ -155,4 +155,11 @@ Generates a teleport script with your current pos to your clipboard
 
 -------------------------
 
+tool morph
+
+Turns you into the tool your holding
+
+-------------------------
+
+
 -- everything is fe
