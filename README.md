@@ -43,3 +43,12 @@ Deletes your face
 
 creeper
 Turns your body into a creeper shape
+
+headless
+Removes your head
+
+cut body
+Your body literally gets cut in half
+
+
+(EVERYONE SEES THE CHANGES LIKE HEADLESS)
