@@ -36,30 +36,40 @@ hipheight <int>
 	Changes your hipheight to the value
 	
 block head
+
 Changes your head into a block mesh
 
 faceless
+
 Deletes your face
 
 creeper
+
 Turns your body into a creeper shape
 
 headless
+
 Removes your head
 
+
 cut body
+
 Your body literally gets cut in half
 
 naked
+
 Removes your clothes
 
 grab hair
+
 Turns your hait into a tool
 
 block hat
+
 Turns your hat into a block
 
 orb
+
 Creates a spinning object around you
 
 fling <Player>
