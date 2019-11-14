@@ -93,7 +93,9 @@ Removes your head
 
 cut body
 
-Your body literally gets cut in half
+Your body literally gets cut in half 
+
+-- better with r15
 
 -------------------------
 
