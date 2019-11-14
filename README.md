@@ -62,5 +62,8 @@ Turns your hat into a block
 orb
 Creates a spinning object around you
 
+fling <Player>
+Flings the player
+
 
 (EVERYONE SEES THE CHANGES LIKE HEADLESS)
