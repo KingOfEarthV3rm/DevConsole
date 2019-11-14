@@ -46,6 +46,8 @@ Gets the game's registry and writes it
 	
 Other commands:
 
+-------------------------
+
 walkspeed <int>
 	
 Changes your walkspeed to the value
