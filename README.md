@@ -179,5 +179,17 @@ Cancels your seizure
 
 -------------------------
 
+view 
+
+Views the player
+
+-------------------------
+
+unview
+
+Unviews the player
+
+-------------------------
+
 
 -- everything is fe
