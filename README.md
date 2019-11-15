@@ -1,5 +1,7 @@
 This shows all of my Developer Console's command and functions:
 
+all the commands are lowercase
+
 
 
 senv (Script path)
@@ -223,3 +225,7 @@ Deletes the object in workspace
 
 -------------------------
 
+
+Info:
+
+Medusa was a project that was to mainly to troll with FE commands and this is the closest we can get to bypassing FE
