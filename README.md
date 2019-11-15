@@ -200,3 +200,13 @@ Unviews the player
 
 
 -- everything is fe
+
+Misc commands:
+
+-------------------------
+
+client tools
+
+Gives you a hammer tool
+
+-------------------------
