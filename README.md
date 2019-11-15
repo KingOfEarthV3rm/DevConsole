@@ -204,3 +204,9 @@ client tools
 Gives you a hammer tool
 
 -------------------------
+
+get fps
+
+Returns your FPS
+
+-------------------------
