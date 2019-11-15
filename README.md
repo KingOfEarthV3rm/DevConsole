@@ -210,3 +210,10 @@ get fps
 Returns your FPS
 
 -------------------------
+
+info <player>
+	
+Shows you the information of the player
+
+-------------------------
+
