@@ -217,3 +217,9 @@ Shows you the information of the player
 
 -------------------------
 
+delete <part>
+	
+Deletes the object in workspace
+
+-------------------------
+
