@@ -2,7 +2,7 @@ This shows all of my Developer Console's command and functions:
 
 
 
-Senv (Script path)
+senv (Script path)
 	
 Returns the script's table. Example: Senv game.Players.LocalPlayer.PlayerScripts.ChatScript
 
