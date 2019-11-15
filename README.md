@@ -14,7 +14,7 @@ Gets all the registrys for the <Script Path> and copies it to your clipboard
 	
 -------------------------
   
-  write getreg <Script Path> <String>
+  write getreg (Script Path) (String)
 	
 Gets all the registrys for the <Script Path> and writes it Example: write getreg game.Workspace.Script reg.txt
 	
@@ -26,7 +26,7 @@ Gets all the game's upvalues and copies it to your clipboard
 
 -------------------------
 
-dump upvalues write <string>
+dump upvalues write (string)
 	
 Gets all the game's upvalues and writes it
 	
@@ -48,25 +48,25 @@ Other commands:
 
 -------------------------
 
-walkspeed <int>
+walkspeed (int)
 	
 Changes your walkspeed to the value
 	
 -------------------------
 	
-jumppower <int>
+jumppower (int)
 	
 Changes your Jumppower to the value
 
 -------------------------
 	
-hipheight <int> 
+hipheight (int) 
 	
 Changes your hipheight to the value
 
 -------------------------
 
-gravity <int>
+gravity (int)
 	
 Changes the gravity to the value
 
@@ -132,7 +132,7 @@ Creates a spinning object around you
 
 -------------------------
 
-fling <Player>
+fling (Player)
 	
 Flings the player
 
@@ -162,7 +162,7 @@ Generates a teleport script with your current pos to your clipboard
 
 -------------------------
 
-teleport <player>
+teleport (player)
 	
 Teleports you to the player
 
@@ -211,13 +211,13 @@ Returns your FPS
 
 -------------------------
 
-info <player>
+info (player)
 	
 Shows you the information of the player
 
 -------------------------
 
-delete <part>
+delete (part)
 	
 Deletes the object in workspace
 
