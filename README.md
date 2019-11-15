@@ -199,6 +199,8 @@ Unviews the player
 
 Misc commands:
 
+(most of the misc commands are not fe)
+
 -------------------------
 
 client tools
