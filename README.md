@@ -2,13 +2,13 @@ This shows all of my Developer Console's command and functions:
 
 
 
-Senv <Script path>
+Senv (Script path)
 	
 Returns the script's table. Example: Senv game.Players.LocalPlayer.PlayerScripts.ChatScript
 
 -------------------------
   
- getreg <Script Path>
+ getreg (Script Path)
 	
 Gets all the registrys for the <Script Path> and copies it to your clipboard
 	
