@@ -152,11 +152,6 @@ Teleports you to your savepos
 
 -------------------------
 
-chat logger
-
-Loads medusa's custom chatlogger
-
--------------------------
 
 generate pos script
 
