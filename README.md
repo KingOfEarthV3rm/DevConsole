@@ -167,5 +167,17 @@ Teleports you to the player
 
 -------------------------
 
+seizure
+
+Starts making you have a seizure
+
+-------------------------
+
+unseizure
+
+Cancels your seizure
+
+-------------------------
+
 
 -- everything is fe
