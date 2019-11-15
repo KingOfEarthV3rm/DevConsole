@@ -38,7 +38,7 @@ Gets the game's registry n copies it to your clipboard
 
 -------------------------
 
-dump registry write <string>
+dump registry write (string)
 	
 Gets the game's registry and writes it
 
