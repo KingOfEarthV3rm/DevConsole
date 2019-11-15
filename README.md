@@ -161,5 +161,11 @@ Turns you into the tool your holding
 
 -------------------------
 
+teleport <player>
+	
+Teleports you to the player
+
+-------------------------
+
 
 -- everything is fe
