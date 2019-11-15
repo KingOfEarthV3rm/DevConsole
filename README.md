@@ -65,6 +65,13 @@ hipheight <int>
 Changes your hipheight to the value
 
 -------------------------
+
+gravity <int>
+	
+Changes the gravity to the value
+
+-------------------------
+
 	
 block head
 
