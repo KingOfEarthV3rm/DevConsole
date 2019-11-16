@@ -166,6 +166,19 @@ Generates a teleport script with your current pos to your clipboard
 
 -------------------------
 
+dab
+
+Makes your character dab
+
+-------------------------
+
+
+insane
+
+Makes your character insane
+
+-------------------------
+
 teleport (player)
 	
 Teleports you to the player
