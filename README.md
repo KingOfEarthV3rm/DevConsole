@@ -87,6 +87,13 @@ Deletes your face
 
 -------------------------
 
+spin hat
+
+Spins your hats at 348392 MPH
+
+-------------------------
+
+
 creeper
 
 Turns your body into a creeper shape
