@@ -179,6 +179,12 @@ Makes your character insane
 
 -------------------------
 
+sleep
+
+Zzzzzzzz
+
+-------------------------
+
 teleport (player)
 	
 Teleports you to the player
