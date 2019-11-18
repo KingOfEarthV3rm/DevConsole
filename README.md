@@ -87,6 +87,12 @@ Deletes your face
 
 -------------------------
 
+crack head
+
+Your an egg
+
+-------------------------
+
 spin hat
 
 Spins your hats at 348392 MPH
