@@ -87,6 +87,24 @@ Deletes your face
 
 -------------------------
 
+rape (player)
+
+Says it bro
+
+-------------------------
+
+refresh
+
+Refreshes your character
+
+-------------------------
+
+rectangle
+
+boxed
+
+-------------------------
+
 reportspam (player)
 
 Reports spam the (player) for exploiting l0l
