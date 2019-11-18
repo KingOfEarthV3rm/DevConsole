@@ -87,9 +87,9 @@ Deletes your face
 
 -------------------------
 
-crack head
+reportspam (player)
 
-Your an egg
+Reports spam the (player) for exploiting l0l
 
 -------------------------
 
