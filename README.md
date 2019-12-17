@@ -221,6 +221,12 @@ Starts making you have a seizure
 
 -------------------------
 
+blocks
+
+spawns blocks infront of u, better with more hats
+
+-------------------------
+
 unseizure
 
 Cancels your seizure
