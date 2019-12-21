@@ -105,6 +105,12 @@ boxed
 
 -------------------------
 
+nameless
+
+Deletes ur rank/name in cafe games
+
+-------------------------
+
 reportspam (player)
 
 Reports spam the (player) for exploiting l0l
